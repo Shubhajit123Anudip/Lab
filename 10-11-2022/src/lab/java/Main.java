@@ -1,3 +1,10 @@
+
+/* Write a Java program to remove duplicate characters from a given string presents in another given string. 
+Sample Output: 
+The given String is: Anudip Foundation Skill & career development centre.
+The given mask string is – Famous
+The new string is: Without all letters 
+ */
 package lab.java;
 
 public class Main {
